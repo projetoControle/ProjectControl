@@ -1,6 +1,6 @@
 {
   "version": "1.2.4",
-  "url": "https://github.com/.../ProjectControl.exe",
+  "url": "https://raw.githubusercontent.com/projetoControle/ProjectControl/main/version.json",
   "sha256": "hash_do_exe",
   "notes": "..."
 }
