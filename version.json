@@ -1,5 +1,6 @@
 {
-  "version": "1.2.3",
-  "url": "https://github.com/projetoControle/ProjectControl/releases/download/v1.2.3/ProjectControl.exe",
-  "notes": "Correção do instalador de atualização + melhorias"
+  "version": "1.2.4",
+  "url": "https://github.com/.../ProjectControl.exe",
+  "sha256": "hash_do_exe",
+  "notes": "..."
 }
